@@ -1,4 +1,5 @@
 Install
+========
 
 Clone the git repository on your computer
 
@@ -12,10 +13,11 @@ After cloning the application, you need to install it's dependencies.
 $ composer install</b>
 
 Setup
+========
 
 When you are done with installation, copy the .env.example file to .env
 
-<b>$ cp .env.example .env<b>
+<b>$ cp .env.example .env</b>
 
 Connect app with database (edit .env file).
 
