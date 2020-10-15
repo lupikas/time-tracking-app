@@ -1,5 +1,4 @@
 Install
-=============
 
 Clone the git repository on your computer
 
@@ -12,9 +11,7 @@ After cloning the application, you need to install it's dependencies.
 <b>$ cd Task-Manager-System
 $ composer install</b>
 
-=============
 Setup
-=============
 
 When you are done with installation, copy the .env.example file to .env
 
